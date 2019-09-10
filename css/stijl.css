@@ -1,0 +1,112 @@
+.body__foundation {
+  font-family: sans-serif;
+  background-color: dodgerblue;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper__h1 {
+  margin-top: 0;
+  padding-top: 20px;
+  padding-left: 30px;}
+
+main {
+  padding: 20px;
+}
+
+section {
+  background-color: rgba(30, 200, 240, 0.5);
+  float: left;
+  border-radius: 15px;
+  width: 360px;
+  box-sizing: border-box;
+  margin: 20px;
+  padding: 30px 58px;
+}
+
+/*Wrapper*/
+.wrapper {
+  background-color: rgba(255, 255, 255, .7);
+  background-image: url('../img/transp.png'), url('../img/grid.png');
+  overflow: auto;
+  width: 1240px;
+  margin: 0 auto;}
+.wrapper__header {
+  background-color: rgba(0,0,0,.7);
+  color: #fff;}
+.wrapper__auteur {
+  float: right;
+  text-align: right;}
+.wrapper__tagline{
+  margin-left: 30px;
+}
+/*Wrapper*/
+
+/*Sectie klein*/
+.sectie__klein {
+   width: 260px;
+   padding: 30px 40px;
+}
+#sectie__klein--agenda {
+  padding: 30px 50px;}
+#sectie__klein--schrijfboek {
+  padding: 30px 20px;}
+#sectie__klein--uitstel {
+  padding: 30px 30px;}
+#sectie__klein--fotos{
+  padding: 30px 20px;}
+.sectie__klein--h3 {
+  margin: 0;
+  font-size: 20px;
+  line-height: 21px;}
+.sectie__klein--p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 21px;
+  padding-top: 10px;
+  padding-bottom: 10px;}
+/*Sectie klein*/
+
+/*Sectie Groot*/
+.sectie__groot {
+  width:360px;
+}
+#sectie__wissel{
+  padding: 30px 100px;}
+#sectie__woss{
+  padding: 30px 80px;}
+#sectie__afwisseling{
+  padding: 30px 120px;}
+#sectie__een{
+  padding: 30px 112px;}
+#sectie__plan{
+  padding: 30px 118px;}
+.sectie__groot--h3 {
+  margin: 0;
+  font-size: 20px;
+  line-height: 21px;}
+.sectie__groot--p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 21px;
+  padding-top: 10px;
+  padding-bottom: 10px;}
+/*Sectie Groot*/
+
+/*Footer*/
+.footer {
+  clear: left;
+  background-color: rgba(0,0,0,.7);
+  color: white;
+}
+#footer__link{
+  text-decoration: none;
+  color: #ffffff;
+}
+#footer__validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}
+/*Footer*/
