@@ -55,11 +55,11 @@ section {
   padding: 30px 30px;}
 #sectie__klein--fotos{
   padding: 30px 20px;}
-.sectie__klein--h3 {
+.sectie__h3--klein {
   margin: 0;
   font-size: 20px;
   line-height: 21px;}
-.sectie__klein--p {
+.sectie__p--klein {
   margin: 0;
   font-size: 16px;
   line-height: 21px;
@@ -81,11 +81,11 @@ section {
   padding: 30px 112px;}
 #sectie__plan{
   padding: 30px 118px;}
-.sectie__groot--h3 {
+.sectie__h3--groot {
   margin: 0;
   font-size: 20px;
   line-height: 21px;}
-.sectie__groot--p {
+.sectie__p--groot {
   margin: 0;
   font-size: 16px;
   line-height: 21px;
